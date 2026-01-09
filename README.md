@@ -6,7 +6,8 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420"/>
 </p>
 
-<h1 align="center">🧠📊 M. Hilma Minanur Rohman</h1>
+<!-- <h1 align="center">🧠📊 M. Hilma Minanur Rohman</h1> -->
+<h1 align="center">📊 M. Hilma Minanur Rohman 🧠</h1>
 <p align="center"><i>"Ngèlmu iku kalakone kanthi laku — Knowledge becomes power when it is practiced."</i></p>
 
 <p align="center">
@@ -85,7 +86,7 @@ Office Administrator
 ## 🎓 Education
 🎓 Universitas Dian Nuswantoro — GPA 3.85  
 🎓 Universitas Gadjah Mada — Student Exchange  
-🎓 SMK Jamaah Pasrah Pati — Computer & Network  
+<!-- 🎓 SMK Jamaah Pasrah Pati — Computer & Network -->  
 
 ---
 
